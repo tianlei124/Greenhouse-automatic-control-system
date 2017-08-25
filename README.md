@@ -3,7 +3,7 @@
 ## 引言
 "生态棚室自控系统"是基于农业大棚模型建立的自动调节系统。项目本身的代码实现比较简单，这里采用的是Python+C混合的方式，但是并不涉及两者之间的调用。事实上现在只有一个Python代码文件，即利用爬虫获取‘墨迹天气’的天气信息的 WeatherForecast.py。
 ### 效果图
-![效果图](..\..\tree\master\photos\效果图.JPG)
+![效果图](https://github.com/tianlei124/Greenhouse-automatic-control-system/blob/master/photos/%E6%95%88%E6%9E%9C%E5%9B%BE.JPG)
 
 ## 平台
 项目是运行于树莓派这一平台的，这里使用的树莓派是Raspberry Pi3 B版。因为操作GPIO的代码是使用C语言写的，所采用的引脚定义方式自然就是wiringPi方式。如果想要移植到其他版本的树莓派或者使用别的语言操作GPIO，请根据实际情况修改引脚定义方式。
