@@ -21,18 +21,18 @@
 ## （传感器&动作模块）驱动方法
 
 ### DHT11温度、湿度传感器
-![DHT11温度、湿度传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master\photos\DHT11温、湿度传感器.JPG)
+![DHT11温度、湿度传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/DHT11温、湿度传感器.JPG)
 
 ### 土壤湿度传感器
-![土壤湿度传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master\photos\土壤湿度传感器.JPG)
+![土壤湿度传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/土壤湿度传感器.JPG)
 
 ### 二路继电器
-![二路继电器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master\photos\二路继电器.JPG)
+![二路继电器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/二路继电器.JPG)
 
 ### 光强传感器
-![光强传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master\photos\光强传感器.JPG)
+![光强传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/光强传感器.JPG)
 
 ### 补光灯
 
 ### ULN2003&步进电机
-![ULN2003&步进电机](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master\photos\ULN2003&步进电机.JPG)
+![ULN2003&步进电机](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/ULN2003&步进电机.JPG)
