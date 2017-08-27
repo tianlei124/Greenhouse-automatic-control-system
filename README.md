@@ -63,25 +63,12 @@ DHT11 的 DATA 引脚输出 40 位数据后，继续输出低电平 50 微秒后
 ### 土壤湿度传感器
 ![土壤湿度传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/土壤湿度传感器.JPG)
 
-
-
-
-### 二路继电器
-![二路继电器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/二路继电器.JPG)
-
-
-
-
 ### 光强传感器
 ![光强传感器](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/光强传感器.JPG)
-
-
-
-
-### 补光灯
 
 ### ULN2003&步进电机
 ![ULN2003&步进电机](https://github.com/tianlei124/Greenhouse-automatic-control-system/raw/master/photos/ULN2003&步进电机.JPG)
 
+### 补光灯
 
-
+### 二路继电器

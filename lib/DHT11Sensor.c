@@ -28,7 +28,7 @@ int main()
         
 //        pinMode(DHT11,OUTPUT);
 //        digitalWrite(DHT11,HIGH);
-        delay(3000);
+        delay(2000);
         fp = fopen("DHT11.txt","w");
 
         if(ReadSensorData())
