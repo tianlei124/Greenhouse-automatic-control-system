@@ -1,8 +1,17 @@
-#include<stdlib.h>
-#include<stdio.h>
-#include<wiringPi.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <wiringPi.h>
 
-int main(void)
+int main()
 {
-    
+    FILE *fp;
+    char wea[128];
+
+    fp = popen("python3 weather.py", "r");
+    fgets(wea, sizeof(wea), fp);
+    pclose(fp);
+
+    printf("%s\n", wea);
+
+    return 0;
 }
